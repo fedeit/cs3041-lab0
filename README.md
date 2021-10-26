@@ -8,7 +8,7 @@ If you run into any issues with your setup, please post to the discussion boards
 
 ## Getting started with Github and gh-pages
 You will use [Github](https://github.com/) to host your lab directories and your web page. 
-If you need a Git/GitHub refresher, see this GitHub Bootcamp, the GitHub Guides (especially the ones on Hello World, and Understanding the GitHub Flow, and Forking Projects), and [CodeSchool's Try Git Course](https://www.pluralsight.com/courses/how-git-works).
+If you need a Git/GitHub refresher, see this GitHub Bootcamp, the GitHub Guides (especially the ones on Hello World, and Understanding the GitHub Flow), and [CodeSchool's Try Git Course](https://www.pluralsight.com/courses/how-git-works).
 
 ## Text Editor
 You will require an editor to edit and create html files. You can use built in editors like Notepad or TextEditor or download a new one like Notepad++, Sublime, or VS Code for this. 
@@ -17,14 +17,11 @@ See this [HTML Editors page](https://www.w3schools.com/html/html_editors.asp)
 You can also follow the steps below to set up your first web page: 
 ### 1. Create a Github account
 
-### 2. Fork this project to your account
-The fork button is located on the top right of this page. [help](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) 
-
-### 3. Clone and edit your project
+### 2. Clone and edit your project
 
   a. Github is based on Git. You need to have [Git](https://git-scm.com/) installed to be able to clone your project locally on your computer
 
-  b. Go back to your repository on Github and copy the link under *Clone or Download*
+  b. Copy the link under *Clone or Download*
 
   c. On your computer open a terminal in the directory where you would like to have your project folder and use the command `git clone link-to-YOUR-copy-of-the-repo` to clone your repository
   
